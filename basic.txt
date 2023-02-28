@@ -1,0 +1,24 @@
+1. Bert : Bidirectional Encoder Representations from Transformer
+    => 두 가지의 목표 : MLM (Masked Language Model) / NSP (Next Sentence Prediction)
+    
+    1). Model Architecture
+        L : transformer block의 수
+        H : hidden node의 수
+        A : self attention의 수
+
+    2). Input
+        Sentence : 일련의 연속된 단어의 집합
+        => Single or Paired Sentence (=Sequence)
+        
+        - Input : Token / Segment / Position Embedding 이 존재함
+
+    3). Pre-training
+        Task 1 : MLM => Sequence의 전체 token중에서 15%가 랜덤으로 [Mask]로 바뀐다 
+        Problem 1 : Pre-traing과 Fine-tuning 사이에서 괴리가 발생 => Solution 1 : 80% masking / 10% random token / 10% unchange
+
+        Task 2 : NSP => Document 내에서 문장관계에 따라서 token을 0/1로 pre-training
+
+    4). Fine-tuning
+        Final layer을 추가함으로써 다양한 분석에 이용 가능
+
+2. GPT : Generative Pre-Training of a Language Model
