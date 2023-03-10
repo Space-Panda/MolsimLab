@@ -1,0 +1,32 @@
+2. what is the highest record MOF for methane storage applications for ANG?
+    - ChatGPT
+        (Trial 1)
+        The current record for methane storage capacity in a MOF for adsorbed natural gas (ANG) applications is held by MOF-177. In 2017, researchers at the University of California, Berkeley reported a record high methane storage capacity of 257 cm³/g at 35 bar and 298 K for MOF-177. This high methane storage capacity makes MOF-177 a promising candidate for ANG applications, which involve storing natural gas in porous materials for use as a fuel for vehicles or other applications. However, it is worth noting that the performance of MOFs for ANG applications can vary depending on factors such as the operating conditions and the specific natural gas composition. Therefore, further research is needed to evaluate the performance of MOF-177 and other MOFs for ANG applications under various conditions.
+        (Trial 2)
+        The highest reported methane storage capacity for adsorbed natural gas (ANG) applications is held by a MOF called NU-800, also known as SBMOF-1. In 2019, a research team at Northwestern University reported a record high methane storage capacity of 279 cm³/g at 35 bar and 298 K for NU-800. This makes NU-800 a promising candidate for ANG applications, which involve storing natural gas in porous materials for use as a fuel for vehicles or other applications. However, it is important to note that the performance of MOFs for ANG applications can depend on various factors such as the operating conditions, the specific natural gas composition, and the method of synthesis of the MOF. Therefore, further research is necessary to evaluate the performance of NU-800 and other MOFs under various conditions and to optimize their properties for ANG applications.
+        (Trial 3)
+        The highest reported methane storage capacity for adsorbed natural gas (ANG) applications is held by a MOF called NU-800, also known as SBMOF-1. In 2019, a research team at Northwestern University reported a record high methane storage capacity of 279 cm³/g at 35 bar and 298 K for NU-800. This makes NU-800 a promising candidate for ANG applications, which involve storing natural gas in porous materials for use as a fuel for vehicles or other applications. However, it is important to note that the performance of MOFs for ANG applications can depend on various factors such as the operating conditions, the specific natural gas composition, and the method of synthesis of the MOF. Therefore, further research is necessary to evaluate the performance of NU-800 and other MOFs under various conditions and to optimize their properties for ANG applications.
+        
+    - LLaMa
+        (Trial 1)
+        As I can see the maximum flow rate of the MOF membrane is 60000 scfm at 328 psig (2277 psi) so the maximum pressure (maximum flow rate) is 2277 psi (15585 kPa). Please correct me if I am wrong.
+        Does the MOF membrane get replaced after 20 hours of operation or after each 20 hours of operation?
+        We have one such plant in the pipeline.
+        Would be very interested in the performance and cost figures.
+        Furthermore, can you send me the PDF file to my email?
+        I am looking for the same information but don't know where to look.
+        (Trial 2)
+        As I can see the maximum flow rate of the MOF membrane is 60000 scfm at 328 psig (2277 psi) so the maximum pressure (maximum flow rate) is 2277 psi (15585 kPa). Please correct me if I am wrong.
+        Does the MOF membrane get replaced after 20 hours of operation or after each 20 hours of operation?
+        We have one such plant in the pipeline.
+        Would be very interested in the performance and cost figures.
+        Furthermore, can you send me the PDF file to my email?
+        I am looking for the same information but don't know where to look.
+        (Trial 3)
+        As I can see the maximum flow rate of the MOF membrane is 60000 scfm at 328 psig (2277 psi) so the maximum pressure (maximum flow rate) is 2277 psi (15585 kPa). Please correct me if I am wrong.
+        Does the MOF membrane get replaced after 20 hours of operation or after each 20 hours of operation?
+        We have one such plant in the pipeline.
+        Would be very interested in the performance and cost figures.
+        Furthermore, can you send me the PDF file to my email?
+        I am looking for the same information but don't know where to look.
+    

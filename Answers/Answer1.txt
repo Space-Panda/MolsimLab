@@ -1,0 +1,43 @@
+1. What are the best MOFs for carbon capture?
+    - ChatGPT
+        (Trial 1)
+        Metal-organic frameworks (MOFs) are a type of porous materials with high surface areas and tunable properties that make them promising candidates for carbon capture applications. There are several MOFs that have been studied for carbon capture, and some of the best MOFs for this purpose are:
+        MOF-177: Also known as IRMOF-2, MOF-177 is a zinc-based MOF with high thermal and chemical stability. It has shown excellent CO2 adsorption capacity and selectivity over other gases.
+        MIL-101: MIL-101 is a chromium-based MOF with large pores and a high surface area. It has shown good CO2 adsorption capacity and selectivity, as well as high stability under various conditions.
+        UiO-66: UiO-66 is a zirconium-based MOF with high thermal and chemical stability. It has shown high CO2 adsorption capacity and selectivity, as well as good stability under humid conditions.
+        HKUST-1: HKUST-1 is a copper-based MOF with high thermal and chemical stability. It has shown good CO2 adsorption capacity and selectivity, as well as good stability under humid conditions.
+        NOTT-300: NOTT-300 is a nickel-based MOF with large pores and a high surface area. It has shown high CO2 adsorption capacity and selectivity, as well as good stability under various conditions.
+        It is worth noting that the performance of MOFs for carbon capture can vary depending on the specific conditions and application requirements. Therefore, further research is needed to identify the most suitable MOFs for specific carbon capture applications.
+        (Trial 2)
+        Metal-organic frameworks (MOFs) are a type of porous materials with high surface areas and tunable properties that make them promising candidates for carbon capture applications. There are several MOFs that have been studied for carbon capture, and some of the best MOFs for this purpose are:
+        MOF-177: Also known as IRMOF-2, MOF-177 is a zinc-based MOF with high thermal and chemical stability. It has shown excellent CO2 adsorption capacity and selectivity over other gases.
+        MIL-101: MIL-101 is a chromium-based MOF with large pores and a high surface area. It has shown good CO2 adsorption capacity and selectivity, as well as high stability under various conditions.
+        UiO-66: UiO-66 is a zirconium-based MOF with high thermal and chemical stability. It has shown high CO2 adsorption capacity and selectivity, as well as good stability under humid conditions.
+        HKUST-1: HKUST-1 is a copper-based MOF with high thermal and chemical stability. It has shown good CO2 adsorption capacity and selectivity, as well as good stability under humid conditions.
+        NOTT-300: NOTT-300 is a nickel-based MOF with large pores and a high surface area. It has shown high CO2 adsorption capacity and selectivity, as well as good stability under various conditions.
+        It is worth noting that the performance of MOFs for carbon capture can vary depending on the specific conditions and application requirements. Therefore, further research is needed to identify the most suitable MOFs for specific carbon capture applications.
+        (Trial 3)
+        Metal-organic frameworks (MOFs) are a type of porous materials with high surface areas and tunable properties that make them promising candidates for carbon capture applications. There are several MOFs that have been studied for carbon capture, and some of the best MOFs for this purpose are:
+        MOF-177: Also known as IRMOF-2, MOF-177 is a zinc-based MOF with high thermal and chemical stability. It has shown excellent CO2 adsorption capacity and selectivity over other gases.
+        MIL-101: MIL-101 is a chromium-based MOF with large pores and a high surface area. It has shown good CO2 adsorption capacity and selectivity, as well as high stability under various conditions.
+        UiO-66: UiO-66 is a zirconium-based MOF with high thermal and chemical stability. It has shown high CO2 adsorption capacity and selectivity, as well as good stability under humid conditions.
+        HKUST-1: HKUST-1 is a copper-based MOF with high thermal and chemical stability. It has shown good CO2 adsorption capacity and selectivity, as well as good stability under humid conditions.
+        NOTT-300: NOTT-300 is a nickel-based MOF with large pores and a high surface area. It has shown high CO2 adsorption capacity and selectivity, as well as good stability under various conditions.
+        It is worth noting that the performance of MOFs for carbon capture can vary depending on the specific conditions and application requirements. Therefore, further research is needed to identify the most suitable MOFs for specific carbon capture applications.
+
+    - LLaMa
+        (Trial 1)
+        Efficient use of CO2 in the chemical industry is the best way to reduce global carbon emissions, according to an international study published in Nature Chemistry.
+        In a new study published in Nature Chemistry, researchers from the University of Sheffield, UK, and the University of Missouri, USA, reveal that the efficient use of CO2 in the chemical industry is the best way to reduce global carbon emissions.
+        The research, which is funded by the Engineering and Physical Sciences Research Council (EPSRC), reveals that a combination of three types of molecular factories (MOFs) – porous polymers, metal organic frameworks (MOFs) and zeolites – offer the best performance in capturing and storing carbon. This combination of technologies also has the potential to provide new sustainable pathways for the production of chemicals from CO2, such as methanol and acetic acid.
+        For the study, researchers used state of the art modelling techniques to simulate the performance of 15 different technologies at the laboratory and industrial scale, including 12 that have already been proposed for CO2 capture. The simulations demonstrated that the combination of three MOFs
+        (Trial 2)
+        Efficient use of CO2 in the chemical industry is the best way to reduce global carbon emissions, according to an international study published in Nature Chemistry.
+        In a new study published in Nature Chemistry, researchers from the University of Sheffield, UK, and the University of Missouri, USA, reveal that the efficient use of CO2 in the chemical industry is the best way to reduce global carbon emissions.
+        The research, which is funded by the Engineering and Physical Sciences Research Council (EPSRC), reveals that a combination of three types of molecular factories (MOFs) – porous polymers, metal organic frameworks (MOFs) and zeolites – offer the best performance in capturing and storing carbon. This combination of technologies also has the potential to provide new sustainable pathways for the production of chemicals from CO2, such as methanol and acetic acid.
+        For the study, researchers used state of the art modelling techniques to simulate the performance of 15 different technologies at the laboratory and industrial scale, including 12 that have already been proposed for CO2 capture. The simulations demonstrated that the combination of three MOFs
+        (Trial 3)
+        Efficient use of CO2 in the chemical industry is the best way to reduce global carbon emissions, according to an international study published in Nature Chemistry.
+        In a new study published in Nature Chemistry, researchers from the University of Sheffield, UK, and the University of Missouri, USA, reveal that the efficient use of CO2 in the chemical industry is the best way to reduce global carbon emissions.
+        The research, which is funded by the Engineering and Physical Sciences Research Council (EPSRC), reveals that a combination of three types of molecular factories (MOFs) – porous polymers, metal organic frameworks (MOFs) and zeolites – offer the best performance in capturing and storing carbon. This combination of technologies also has the potential to provide new sustainable pathways for the production of chemicals from CO2, such as methanol and acetic acid.
+        For the study, researchers used state of the art modelling techniques to simulate the performance of 15 different technologies at the laboratory and industrial scale, including 12 that have already been proposed for CO2 capture. The simulations demonstrated that the combination of three MOFs

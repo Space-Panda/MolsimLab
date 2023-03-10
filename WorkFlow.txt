@@ -1,5 +1,20 @@
 2023.03.09 (Thu)
 
 - Prompt (provided by prof. 지한) => Compare LLaMa vs. Chat GPT
+    1. What are the best MOFs for carbon capture?
+    2. what is the highest record MOF for methane storage applications for ANG?
+    3. what type of mofs can selectively bind nitrogen over methane for nitrogen methane separation applications? 
+    4. how many mofs have density less than 0.01g/cm^3? 
+    5. can you provide me with a synthesis conditon for a crystalline ZIF-8 and a synthesis condition for an amorphous ZIF-8?  
+    6. What kind of materials consist of Zn, O, C, and H atoms?
+    7. what is the best mof for water harvesting? 
+    8. what do these structures have in common?  LTA, MOF-5, MFI, HKUST-1 
+    9. which MOFs have surface area larger than 7000 m^2/g? 
+    10. what determines stacking modes in 2D MOFs and COFs?  
 - Is LLaMa Fine-tuning is available?
-- LLaMa vs. Chat GPT (Domain-specific!!!)
+    https://github.com/facebookresearch/llama/issues/169 (230310 added)
+- LLaMa vs. Chat GPT (Domain-specific!!!) => Model should be pre-trained with MOF Domain (See below references) But how???
+
+References
+- BatteryBERT : https://pubs.acs.org/doi/10.1021/acs.jcim.2c00035
+- BioGPT : https://arxiv.org/abs/2210.10341
